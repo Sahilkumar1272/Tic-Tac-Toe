@@ -69,11 +69,13 @@ The AI uses the following strategy:
 ---
 
 ## 📦 How to Run Locally
+
 1. Clone the repository:
    ```bash
    git clone https://github.com/your-repo/tic-tac-toe.git
-### 2. Navigate to the Project Directory
-  ```bash
-  cd tic-tac-toe
+2. Navigate to the project directory:
+   ```base
+     cd tic-tac-toe
+4. Open the index.html file in your browser to start the game.
 
-3. Open the index.html file in your browser.
+   
