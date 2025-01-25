@@ -73,6 +73,7 @@ The AI uses the following strategy:
    ```bash
    git clone https://github.com/your-repo/tic-tac-toe.git
 ### 2. Navigate to the Project Directory
-```bash
-cd tic-tac-toe
+  ```bash
+  cd tic-tac-toe
 
+3. Open the index.html file in your browser.
